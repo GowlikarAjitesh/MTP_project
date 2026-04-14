@@ -9,7 +9,8 @@
   - Now my work includes benchmarking and evaluating various models in the domain of object tracking, like
     1. DeepSort
     2. Bot-SORT
-    3. ByteTrack
+    3. SAM2
+    4. SAMURAI
     
   - **Metrics**: HOTA, IDF1, MOTA, MOTP
   

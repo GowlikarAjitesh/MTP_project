@@ -14,4 +14,4 @@
     
   - **Metrics**: HOTA, IDF1, MOTA, MOTP
   
-  - **Dataset**: SAV dataset
+  - **Dataset**: MOT17 dataset

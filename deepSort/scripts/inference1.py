@@ -11,8 +11,8 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 # CONFIG
 # ==============================
 
-VIDEO_PATH = "/home/cs24m118/datasets/videos/sam_test_pegion.mp4"
-OUTPUT_PATH = "/home/cs24m118/phase2/deepSort/outputoutput_deepSort.avi"         # AVI is safer on servers
+VIDEO_PATH = "/home/cs24m118/datasets/MOT17/train/MOT17-02-FRCNN/img1"
+OUTPUT_PATH = "/home/cs24m118/phase2/deepSort/output/MOT17_02_FRNN_deepsort"         # AVI is safer on servers
 CONF_THRESH = 0.4
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
